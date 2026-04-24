@@ -1,4 +1,4 @@
-# PROJECT PROBLEM STATEMENT (Expanded)
+# PROJECT PROBLEM STATEMENT
 
 ## 1. Problem
 Retail investors and analysts face significant difficulty in making timely, evidence-based stock decisions due to the fragmented nature of financial information. Critical data required for informed decision-making is distributed across multiple sources, each demanding a different mode of analysis and interpretation. These sources typically include market trend data, technical indicators, company fundamentals, and macroeconomic signals.
